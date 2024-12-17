@@ -21,10 +21,10 @@
   
 - 📊 Love building **dashboards** and **data-driven solutions** to solve real-world problems    
 
-<br>
+
 
 ---
-<br>
+
 
 ### 🛠️ Technical Skills  
 - **Programming & Analysis**: Python, SQL  
@@ -40,11 +40,14 @@
 ---
 
 ### 🌱 What I’m Learning  
-- Mastering **Advanced Data Science Techniques**  
-- Exploring **Cloud Technologies** and their role in Data Analysis  
+- Mastering **Advanced Data Science Techniques**
+  
+- Exploring **Cloud Technologies** and their role in Data Analysis
+  
 - Enhancing my skills in **Power BI** and **Tableau Dashboards**
   
 ---
+
 ### 💼 Projects & Experience  
 
 - 📊 **Restaurant Data Analysis Dashboard**  
@@ -58,6 +61,7 @@
    - **YBI Foundation**: Data Science & AI/ML Internship  
    - **Allsoft Solutions & Services**: ML Training and Project Completion
 ---
+
 ### 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chitranshu-srivastava-b4b31b254/)  
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:chitranshusrivastava2003@gmail.com)  
