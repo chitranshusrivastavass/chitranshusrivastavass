@@ -1,16 +1,29 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/chitranshusrivastavass/Chitranshu-Srivastava/cb908f3bc3969eec8a4411f63accaf0c6d07793c/31532d7d378053de3b8bf23c6e7bfae3.gif" alt="CHITRANSHU" align="center" height=350 width=1080> 
+<div align='center'>
+<h1> Hi 👋, I'm Chitranshu Srivastava </h1>
 
-<!--
-**chitranshusrivastavass/chitranshusrivastavass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Empowering Businesses through Data Analysis</h2> 
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+### 🚀 About Me  
+- 🌱 I’m currently learning **Data  Analysis** and **Business Analytics**.
+  
+- 💻 I’m working on **personal projects** to improve my skills.
+  
+- 📫 How to reach me: [chitranshusrivastava2003@gmail.com](mailto:chitranshusrivastava2003@gmail.com).  
+
+
+---
+
+### 🔗 Connect with me:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/public-profile/settings))   
+
+---
+
+### 🛠️ Languages and Tools:  
+
+---
