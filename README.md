@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/chitranshusrivastavass/Chitranshu-Srivastava/cb908f3bc3969eec8a4411f63accaf0c6d07793c/31532d7d378053de3b8bf23c6e7bfae3.gif" alt="CHITRANSHU" align="center" height=350 width=1080> 
+<img src="https://github.com/chitranshusrivastavass/chitranshusrivastavass/blob/main/31532d7d378053de3b8bf23c6e7bfae3.gif?raw=true" alt="CHITRANSHU" align="center" height=350 width=1080> 
 
 <div align='center'>
 <h1> 👋 Hi, I'm Chitranshu Srivastava </h1>
